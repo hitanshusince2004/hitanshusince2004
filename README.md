@@ -17,28 +17,12 @@
 
 </div>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
+<!-- ═══════════════ ABOUT (animated terminal) ═══════════════ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> `whoami`
 
-```js
-const hitanshu = {
-  role:      "Full Stack Developer",
-  education: "B.Tech IT @ K. J. Somaiya Institute of Technology",
-  location:  "India 🇮🇳",
-  focus: [
-    "Full Stack Web Development",
-    "DevOps & CI/CD",
-    "Cloud Fundamentals (AWS / GCP)",
-    "Writing clean, scalable code",
-  ],
-  currentlyDoing: [
-    "Building full-stack projects end to end",
-    "Exploring Docker, Jenkins & CI/CD pipelines",
-    "Looking for internships & real-world projects",
-  ],
-  motto: () => "Build. Break. Fix. Ship. 🚀",
-};
-```
+<div align="center">
+<img src="./assets/terminal.svg" width="760" alt="Terminal intro: Hitanshu Kanabar, Full Stack Developer, B.Tech IT, open to internships and opportunities"/>
+</div>
 
 <!-- ═══════════════ QUICK BADGES ═══════════════ -->
 <div align="center">
@@ -71,15 +55,22 @@ const hitanshu = {
 
 </div>
 
+<!-- ═══════════════ SKILL LEVELS ═══════════════ -->
+## 📶 Skill Levels
+
+<div align="center">
+<img src="./assets/skills.svg" width="760" alt="Skill levels: HTML and CSS advanced, JavaScript strong, React and Node solid, DevOps learning"/>
+</div>
+
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🛰️ Featured Builds
 
 <div align="center">
 
-<a href="https://github.com/hitanshusince2004/Portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hitanshusince2004&repo=Portfolio&theme=dark&hide_border=true&bg_color=0a0f1f&title_color=fca311&icon_color=4cc9f0&text_color=ffffff&description_lines_count=2" /></a>
-<a href="https://github.com/hitanshusince2004/Health-Card-Portal"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hitanshusince2004&repo=Health-Card-Portal&theme=dark&hide_border=true&bg_color=0a0f1f&title_color=fca311&icon_color=4cc9f0&text_color=ffffff&description_lines_count=2" /></a>
-<a href="https://github.com/hitanshusince2004/My-internship-Music-Reccomandation---using-user-preferences-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hitanshusince2004&repo=My-internship-Music-Reccomandation---using-user-preferences-&theme=dark&hide_border=true&bg_color=0a0f1f&title_color=fca311&icon_color=4cc9f0&text_color=ffffff&description_lines_count=2" /></a>
-<a href="https://github.com/hitanshusince2004/DevOps_01"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hitanshusince2004&repo=DevOps_01&theme=dark&hide_border=true&bg_color=0a0f1f&title_color=fca311&icon_color=4cc9f0&text_color=ffffff&description_lines_count=2" /></a>
+<a href="https://github.com/hitanshusince2004/Portfolio"><img width="49%" src="./profile/pin-portfolio.svg" alt="Portfolio" /></a>
+<a href="https://github.com/hitanshusince2004/Health-Card-Portal"><img width="49%" src="./profile/pin-health-card.svg" alt="Health-Card-Portal" /></a>
+<a href="https://github.com/hitanshusince2004/My-internship-Music-Reccomandation---using-user-preferences-"><img width="49%" src="./profile/pin-music.svg" alt="My-internship-Music-Reccomandation---using-user-preferences-" /></a>
+<a href="https://github.com/hitanshusince2004/DevOps_01"><img width="49%" src="./profile/pin-devops.svg" alt="DevOps_01" /></a>
 
 </div>
 
@@ -98,10 +89,23 @@ const hitanshu = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hitanshusince2004&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f1f&title_color=fca311&icon_color=4cc9f0&text_color=ffffff&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshusince2004&layout=compact&theme=dark&hide_border=true&bg_color=0a0f1f&title_color=fca311&icon_color=4cc9f0&text_color=ffffff" />
+<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=hitanshusince2004&theme=dark&hide_border=true&background=0a0f1f&ring=fca311&fire=4cc9f0&currStreakLabel=fca311&sideLabels=FFFFFF&dates=A0A0C0" />
+<img src="https://streak-stats.demolab.com?user=hitanshusince2004&theme=dark&hide_border=true&background=0a0f1f&ring=fca311&fire=4cc9f0&currStreakLabel=fca311&sideLabels=FFFFFF&dates=A0A0C0" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitanshusince2004&bg_color=0a0f1f&color=ffffff&title_color=fca311&line=fca311&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+<!-- ═══════════════ METRICS ═══════════════ -->
+## 🔬 Developer Metrics
+
+<div align="center">
+
+<img src="./metrics.habits.svg" width="49%" alt="Coding habits" />
+<img src="./metrics.languages.svg" width="49%" alt="Languages" />
+<img src="./metrics.achievements.svg" width="49%" alt="Achievements" />
 
 </div>
 
@@ -112,15 +116,38 @@ const hitanshu = {
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 </div>
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-## 🐍 Contribution Snake
+<!-- ═══════════════ ARCADE ═══════════════ -->
+## 🕹️ Contribution Arcade
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitanshusince2004/hitanshusince2004/output-pacman/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitanshusince2004/hitanshusince2004/output-pacman/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/hitanshusince2004/hitanshusince2004/output-pacman/pacman-contribution-graph-dark.svg" />
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitanshusince2004/hitanshusince2004/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitanshusince2004/hitanshusince2004/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/hitanshusince2004/hitanshusince2004/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/hitanshusince2004/hitanshusince2004/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+</div>
+
+<!-- SPOTIFY IS OFF: after adding your UID, delete this line and the last line of this block (SETUP.md step 5)
+## 🎧 Now Playing
+
+<div align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&bar_color=fca311&border_radius=15" alt="Spotify now playing" />
+</div>
+-->
+
+<!-- ═══════════════ QUOTE ═══════════════ -->
+## 💬 Dev Quote
+
+<div align="center">
+<a href="https://github.com/PiyushSuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" /></a>
 </div>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
